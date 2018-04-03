@@ -1,0 +1,51 @@
+**********************************
+************SECUENCIAL************
+**********************************
+
+
+-------------------------------
+10 IPS QUE MÁS HICIERON CONSULTAS:
+
+1. "10.218.3.49" hizo un total de: 1007162 consultas.
+2. "168.176.34.155" hizo un total de: 459747 consultas.
+3. "168.176.55.54" hizo un total de: 331710 consultas.
+4. "10.218.3.47" hizo un total de: 65535 consultas.
+5. "168.176.6.21" hizo un total de: 59943 consultas.
+6. "10.218.3.21" hizo un total de: 47069 consultas.
+7. "10.218.3.38" hizo un total de: 39893 consultas.
+8. "168.176.37.119" hizo un total de: 36924 consultas.
+9. "10.203.0.220" hizo un total de: 27946 consultas.
+10. "10.218.3.26" hizo un total de: 25411 consultas.
+
+
+-------------------------------
+10 IPS QUE MÁS SE VISITARON:
+
+1. "http://10.203.41.142/rcp.xml?" recibió un total de: 527537 visitas.
+2. "http://10.203.41.144/snap.jpg?" recibió un total de: 341047 visitas.
+3. "168.176.240.68:443" recibió un total de: 331604 visitas.
+4. "::ffff:192.168.1.115:1716" recibió un total de: 161440 visitas.
+5. "::ffff:192.168.1.102:1716" recibió un total de: 141338 visitas.
+6. "play.google.com:443" recibió un total de: 107016 visitas.
+7. "clients6.google.com:443" recibió un total de: 100029 visitas.
+8. "storagesvc3-cosyswareinge80111.storage.oraclecloud.com:443" recibió un total de: 93453 visitas.
+9. "http://10.203.41.144/rcp.xml?" recibió un total de: 88895 visitas.
+10. "http://10.50.0.31/httpGetSet/httpGet.htm?" recibió un total de: 87148 visitas.
+
+
+-------------------------------
+10 IPS QUE MÁS DESCARGARON:
+
+1. "168.176.93.48" descargó un total de: 16995950124 bytes.
+2. "168.176.28.119" descargó un total de: 13555276375 bytes.
+3. "168.176.19.105" descargó un total de: 10658891616 bytes.
+4. "168.176.87.88" descargó un total de: 9170287562 bytes.
+5. "168.176.18.43" descargó un total de: 8770671150 bytes.
+6. "168.176.34.61" descargó un total de: 8543507792 bytes.
+7. "10.218.3.26" descargó un total de: 6848844153 bytes.
+8. "168.176.51.151" descargó un total de: 6815899376 bytes.
+9. "168.176.32.35" descargó un total de: 6247731945 bytes.
+10. "168.176.88.207" descargó un total de: 6092968877 bytes.
+
+
+El secuencial se demoró: 24.84904959s
